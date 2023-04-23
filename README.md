@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 <span><img src="https://img.shields.io/badge/-scss-%23CC6699?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/-styled--component-%23DB7093?style=for-the-badge"/></span>
 
-<span><img src="https://img.shields.io/badge/-jquery-%230769AD?style=for-the-badge"/></span>
+
 <span><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/-typescript-%233178C6?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/-angularjs-%23E23237?style=for-the-badge"/></span>
+<span><img src="https://img.shields.io/badge/-jquery-%230769AD?style=for-the-badge"/></span>
 
 <span><img src="https://img.shields.io/badge/-graphql-%23E10098?style=for-the-badge"/></span>
 <span><img src="https://img.shields.io/badge/-adobe%20photoshop-%2331A8FF?style=for-the-badge"/></span>
